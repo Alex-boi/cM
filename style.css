@@ -1,0 +1,44 @@
+#videos{
+    text-align: center;
+    background-color:#FFCDD2; 
+}
+#e{
+    background-color:#FFE0B2; 
+}
+#u{
+    background-color:#FFCDD2; 
+}
+#text{
+    color:black;
+}
+#mynavbar{
+    background-color: #4DB6AC;
+}
+#t{
+    color:black;
+}
+#campus{
+    background-color:#D1C4E9;
+}
+.my_nav_bar{
+    position: sticky;
+    top:0px;
+    z-index: 999;
+}
+#contact{
+    text-align: center;
+    background-color:#8E24AA; 
+}
+#music{
+    background-color: azure;
+}
+#line{
+    color:black;
+}
+#school{
+    text-align: center;
+    background-color: #90CAF9;
+}
+#math{
+background-color: darkgray;
+}
